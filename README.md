@@ -1,22 +1,23 @@
 # Test-automation-portfolio
+
 This repository showcases a collection of my test automation projects, demonstrating my expertise in automating tests for web, mobile, and API applications using modern tools and frameworks. The projects highlight different testing strategies, best practices, and real-world use cases in a CI/CD context.
 
-# 🛠️ Technologies & Tools Used
+## 🛠️ Technologies & Tools Used
 Web Automation: WebdriverIO, Playwright, Cypress, Pytest <br />
 Mobile Automation: Appium (Android & iOS) <br />
-API Testing: Postman, Supertest, REST Assured__
-Programming: JavaScript, TypeScript, Python__
-CI/CD: Jenkins, GitHub Actions__
-Reporting: Allure, Mochawesome__
+API Testing: Postman, Supertest, REST Assured <br />
+Programming: JavaScript, TypeScript, Python <br />
+CI/CD: Jenkins, GitHub Actions <br />
+Reporting: Allure, Mochawesome <br />
 
-# 🧩 Highlights
-Clean Page Object Model architecture__
-Integration with CI pipelines__
-Modular, scalable, and reusable test components__
-Parallel execution and cross-browser testing__
+## 🧩 Highlights
+Clean Page Object Model architecture <br />
+Integration with CI pipelines <br />
+Modular, scalable, and reusable test components <br />
+Parallel execution and cross-browser testing <br />
 
-Comprehensive README files for easy setup and execution__
+Comprehensive README files for easy setup and execution <br />
 
-# 📄 Purpose
+## 📄 Purpose
 This portfolio is intended to demonstrate my capabilities as a Test Automation Engineer, with projects designed to reflect real-world testing challenges and solutions.
 
