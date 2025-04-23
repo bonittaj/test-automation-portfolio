@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^13.13.0",
+    "cypress-mochawesome-reporter": "^3.0.1"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "node_modules/.bin/cypress run --config pageLodTimeout=100000"
+  }
+}

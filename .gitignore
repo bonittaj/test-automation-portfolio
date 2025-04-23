@@ -1,0 +1,6 @@
+# ignore all logs
+*.log
+/node_modules
+*.png
+/cypress/report
+package-lock.json
